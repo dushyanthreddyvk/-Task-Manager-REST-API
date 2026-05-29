@@ -1,4 +1,4 @@
-# Task Manager REST API
+<img width="1470" height="956" alt="Screenshot 2026-05-29 at 4 57 57 PM" src="https://github.com/user-attachments/assets/44bb1bb2-bacb-475e-acd2-06b1565019bf" /># Task Manager REST API
 
 [![Java](https://img.shields.io/badge/Java-17+-ED8B00?style=flat-square&logo=java)](https://www.oracle.com/java/)
 [![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.1.5-6DB33F?style=flat-square&logo=spring-boot)](https://spring.io/projects/spring-boot)
@@ -638,66 +638,8 @@ This project demonstrates proficiency in key backend engineering concepts:
 ---
 
 ## 📸 Screenshots
+<img width="1470" height="956" alt="Screenshot 2026-05-29 at 4 57 57 PM" src="https://github.com/user-attachments/assets/d2e08a9a-691f-44d6-8de3-5d67b03c5581" />
 
-### Home Page
-```
-[Add screenshot of home page here - placeholder for future image]
-```
-
-### Create Task API
-```
-[Add screenshot of POST /api/tasks request/response - placeholder for future image]
-```
-
-### Get All Tasks API
-```
-[Add screenshot of GET /api/tasks response - placeholder for future image]
-```
-
-### Get Task by ID
-```
-[Add screenshot of GET /api/tasks/{id} response - placeholder for future image]
-```
-
-### Update Task API
-```
-[Add screenshot of PUT /api/tasks/{id} request/response - placeholder for future image]
-```
-
-### Delete Task API
-```
-[Add screenshot of DELETE /api/tasks/{id} response - placeholder for future image]
-```
-
-### Swagger UI Documentation
-```
-[Add screenshot of Swagger UI interface - placeholder for future image]
-```
-
-### Docker Container Running
-```
-[Add screenshot of Docker container logs - placeholder for future image]
-```
-
-### Docker Compose Setup
-```
-[Add screenshot of docker-compose logs - placeholder for future image]
-```
-
-### GitHub Actions Workflow
-```
-[Add screenshot of GitHub Actions CI/CD workflow - placeholder for future image]
-```
-
-### MySQL Database Schema
-```
-[Add screenshot of database structure - placeholder for future image]
-```
-
-### Frontend UI (if applicable)
-```
-[Add screenshot of task management interface - placeholder for future image]
-```
 
 ---
 
